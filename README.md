@@ -38,7 +38,7 @@ server.port=9000
 ### Invalid Token
 ![image](https://user-images.githubusercontent.com/31609389/144048117-a6fb13fe-6b94-439f-baf8-d696d7f9eebe.png)
 
-### JWT (This can only be verified from the server-side)
+### JWT (This can only be verified from the server-side. Frontend can't read the value)
 ![image](https://user-images.githubusercontent.com/31609389/144048380-c40ea632-888f-4d5a-bcac-1dc8b0e69b79.png)
 
 Happy coding :)
