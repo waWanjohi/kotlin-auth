@@ -1,4 +1,4 @@
-# A simple Authentication service in Spring Boot.
+# An Authentication service in Spring Boot.
 #### Implemented in Kotlin 
 
 # Recommended Tools:
