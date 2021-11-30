@@ -1,5 +1,5 @@
 # An Authentication service in Spring Boot.
-#### Implemented in Kotlin 
+
 
 # Recommended Tools:
   ### 1. Jetbrains IntellijIDEA
